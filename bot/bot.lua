@@ -90,7 +90,7 @@ function create_config( )
 	"lock-fosh"
 	
  },
-    sudo_users = {permag.ir/bot/bot.lua},
+    sudo_users = {362270285},
     admins = {},
     disabled_channels = {},
     moderation = {data = './data/moderation.json'},
